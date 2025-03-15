@@ -18,18 +18,18 @@ To get started with this project, ensure you have the following installed:
 - **Matplotlib**
   
 # You can install the required dependencies using the following command:
-``` pip install opencv-python-headless(Without GUI Support) ```
+```* pip install opencv-python-headless(Without GUI Support) *```
 
 # YOLOv4 Model Files
 This project uses the YOLOv4 model to perform object detection. You'll need to download the following files:
 -->YOLOv4 Weights:
-Download the pretrained YOLOv4 weights from <YOLOv4 Weights> (It is impossible to upload since it is 255MB,consider less memory size file.
+Download the pretrained YOLOv4 weights from ```YOLOv4 Weights``` (It is impossible to upload since it is 255MB,consider less memory size file.
 
 -->YOLOv4 Config File:
-Download the YOLOv4 config file from <YOLOv4 Config>.
+Download the YOLOv4 config file from ``` YOLOv4 Config ```.
 
 -->Coco files:
-Download coco files from coco.names. Pre-Trained Datasets Model
+Download coco files from ```coco.names```. Pre-Trained Datasets Model
 
 Once downloaded, place the yolov4.weights and yolov4.cfg files in the project root directory.
 
