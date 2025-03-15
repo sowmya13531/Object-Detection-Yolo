@@ -18,7 +18,7 @@ To get started with this project, ensure you have the following installed:
 - **Matplotlib**
   
 # You can install the required dependencies using the following command:
-'''pip install opencv-python-headless(Without GUI Support)'''
+''' pip install opencv-python-headless(Without GUI Support) '''
 
 # YOLOv4 Model Files
 This project uses the YOLOv4 model to perform object detection. You'll need to download the following files:
